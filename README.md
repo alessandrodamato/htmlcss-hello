@@ -1,3 +1,3 @@
 Hello HTML
 ===
-Esercizio spiegato questa mattina.
+Esercizio di introduzione HTML
